@@ -22,4 +22,4 @@ Following topics are included in this tutorial:
 - Conditions
 - Data Aggregation
 <br>
-Deatiled explanation and sample outputs can be found in this Medium article <a href = "https://tatev-aslanyan.medium.com/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185"> PySpark Cheat Sheet For Big Data Analytics </a>
+Deatiled explanation and sample outputs can be found in this Medium article <a href = "https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185"> PySpark Cheat Sheet For Big Data Analytics </a>
